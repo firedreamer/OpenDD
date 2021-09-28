@@ -14,9 +14,12 @@ Assets have their own different policies for usage as put forward by their own c
 DAMAGE DONE IS RELEASED UNDER THE MPL 2.0 AND REQUIRES SOURCE CODE DISCLOSURE OF DERIVATIVE WORKS. NON-CODE ASSETS(Art, Audio, Animations, etc.) ARE ALLOWED TO BE EXCLUDED, AS WELL AS INDIVIDUAL LEVELS AND NARRATIVE COMPONENTS LIKE VOICED LINES AND CINEMATICS.
 </p>
 
-## Music - © Cameron Cluelow 2018-2021
+## Music - © Cameron Cluelow 2018-2021, Sam Jenkins 2021
 
 The game's music was created by Cameron Cluelow, better known by his artist name Kutaren. His licensing and copyright terms are available [here.](https://docs.google.com/document/d/14gNgcMxHbkaiwhuzUqabfJ-00vgj-xt0gogAyn7GLno/)
+<p>
+  The soundtrack for the game was composed by Sam Jenkins. 
+</p>
 
 ## Animations - Various
 
