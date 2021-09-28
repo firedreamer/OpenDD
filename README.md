@@ -21,7 +21,16 @@ The game's music was created by Cameron Cluelow, better known by his artist name
   The soundtrack for the game was composed by Sam Jenkins. 
 </p>
 
+## Audio - Various
+Third party artwork is sourced from multiple places under Creative Commons or equivalent licenses. A full list can be found [here.](https://raw.githubusercontent.com/TheAidency/OpenDD/main/Meta/audio.txt)
+Some paid assets have also been used, which have been .gitignore'd due to their licensing terms.
+
+## Art - Various
+
+Third party artwork is sourced from multiple places under Creative Commons or equivalent licenses. A full list can be found [here.](https://raw.githubusercontent.com/TheAidency/OpenDD/main/Meta/art.txt)
+Some paid assets have also been used, which have been .gitignore'd due to their licensing terms.
+
 ## Animations - Various
 
 Animations are sourced from multiple places under Creative Commons or equivalent licenses. A full list can be found [here.](https://raw.githubusercontent.com/TheAidency/OpenDD/main/Meta/mocap.txt)
-
+Some paid assets have also been used, which have been .gitignore'd due to their licensing terms.
