@@ -12,8 +12,6 @@ Assets have their own different policies for usage as put forward by their own c
 
 <p align="center">
 DAMAGE DONE IS RELEASED UNDER THE MPL 2.0 AND REQUIRES SOURCE CODE DISCLOSURE OF DERIVATIVE WORKS. NON-CODE ASSETS(Art, Audio, Animations, etc.) ARE ALLOWED TO BE EXCLUDED, AS WELL AS INDIVIDUAL LEVELS AND NARRATIVE COMPONENTS LIKE VOICED LINES AND CINEMATICS.
-  
-If you own the game(when it is released) and would like to mod it, you may request access to the private content repository by emailing teamfiredreamer@gmail.com
 </p>
 
 ## Music - © Cameron Cluelow 2018-2021, Sam Jenkins 2021
