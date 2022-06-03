@@ -1,0 +1,19 @@
+{
+    "name": "ProbeGen",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [
+        "CloudRendering",
+        "Editor",
+        "macOSStandalone",
+        "QNX"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
