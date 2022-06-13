@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141886703123",
+    "project_id": "damagedonegame",
+    "storage_bucket": "damagedonegame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141886703123:android:4bf1c9f91b2b67b80e21e6",
+        "android_client_info": {
+          "package_name": "com.firedreamer.opendd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141886703123-tnb68qp5makmc3odteio90mt3tpeh8n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0D73MiJejyCFc7_alrpVnNJXJS5HRok0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141886703123-tnb68qp5makmc3odteio90mt3tpeh8n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
