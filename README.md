@@ -1,3 +1,6 @@
+# READ ME FIRST: THIS REPO EXISTS ONLY FOR ARCHIVAL PURPOSES, AND WILL BE SUPERSEDED BY THE NEW CAUSALITY-SANDBOX REPO.
+
+
 # Damage Done: Just as Vile
 
 Damage Done: Just as Vile is an open source, free-as-in-freedom third person stealth-action game. The source code itself is provided under the MPL 2.0, but individual assets in the game are subject to different licenses as explained below. 
